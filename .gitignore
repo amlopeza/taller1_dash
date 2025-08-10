@@ -11,3 +11,6 @@ venv/
 .ipynb_checkpoints/
 .DS_Store
 data
+MLOps.code-workspace
+.vscode/
+.github/
